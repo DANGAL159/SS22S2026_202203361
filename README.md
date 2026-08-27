@@ -191,15 +191,16 @@ La estrategia de imputación de datos permitió conservar el 59.6% de los regist
 
 ## 6. Estructura del Repositorio
 
-SS22S2026_G14/
+SS22S2026_202203361/
 ├── Tarea2/
-│ ├── code/
-│ │ └── dataset_generator.js
-│ ├── data/
-│ │ ── ventas_panaderia.csv
-│ ├── dashboard.pbix
-│ ├── dashboard.png
-│ └── README.md
+│   ├── code/
+│   │   └── dataset_generator.js
+│   ├── data/
+│   │   └── ventas_panaderia.csv
+│   ├── dashboard.pbix
+│   ├── dashboard.png
+│   └── README.md
+
 
 ---
 
