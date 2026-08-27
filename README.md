@@ -67,8 +67,8 @@ erDiagram
 ```
 
 ### Relaciones:
-**DimProductos** → ventas_panaderia: Relación 1:N por ProductoID
-**DimClientes** → ventas_panaderia: Relación 1:N por ClienteID
+- **DimProductos** → ventas_panaderia: Relación 1:N por ProductoID
+- **DimClientes** → ventas_panaderia: Relación 1:N por ClienteID
 
 ---
 
