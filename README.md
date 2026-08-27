@@ -190,17 +190,9 @@ La estrategia de imputación de datos permitió conservar el 59.6% de los regist
 ---
 
 ## 6. Estructura del Repositorio
-´´´
-SS22S2026_202203361
-    ├── code
-    │   ├── data
-    │   │   └── ventas_panaderia.csv
-    │   └── dashboard.pbix
-    ├── images
-    │   ├── dashboard.png
-    │   └── power_query.png
-    └── README.md
-´´´
+
+![arbol del proyecto](./images/tree.png)
+
 ---
 
 **Autor:** Daniel Abraham Gálvez Solorzano - 202203361  
