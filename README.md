@@ -201,8 +201,6 @@ SS22S2026_202203361
     │   └── power_query.png
     └── README.md
 ´´´
-
-
 ---
 
 **Autor:** Daniel Abraham Gálvez Solorzano - 202203361  
