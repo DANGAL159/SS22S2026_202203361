@@ -1,0 +1,501 @@
+VentaID,Fecha,ClienteID,NombreCliente,Zona,ProductoID,Producto,Categoria,Cantidad,PrecioUnitario,TotalVenta
+1,,5,Laura Sánchez,,1,Pan Francés,Panes,2,1.50,3.00
+2,2024-07-18,8,Miguel Flores,Centro,9,Baguette,Panes  ,,2.50,15.00
+3,2024-03-02,2,Carlos López,Sur,5,Donas,Panes,6,2.00,12.00
+4,2023-06-04,8,Miguel Flores,Centro,6,Pan Integral,Panes,2,2.00,4.00
+5,2023-04-28,2,Carlos López,Sur  ,8,Tarta Manzana,Pasteles,8,,96.00
+6,2023-01-21,6,Pedro Ramírez,Norte,5,Donas,Panes,10,2.00,20.00
+7,2024-08-27,7,Sofia Torres,Sur  ,4,Galletas Avena,Galletas,5,3.00,15.00
+8,2023-06-09,6,Pedro Ramírez,Norte,,Muffin Arándanos,Pasteles,4,3.50,14.00
+9,2024-05-16,,Pedro Ramírez,Norte,4,Galletas Avena,Galletas,10,,30.00
+10,2024-03-27,1,María González  ,Norte,10,Empanada  ,Salados,9,3.00,27.00
+11,2023-07-28,8,Miguel Flores,Centro,,Tarta Manzana,Pasteles,10,12.00,120.00
+12,2024-07-17,,José Gómez,Oeste,7,Muffin Arándanos,Pasteles,,,24.50
+13,2024-05-13,7,Sofia Torres,Sur,10,,Salados,5,3.00,15.00
+14,2023-10-21,,,Norte,7,Muffin Arándanos,,,3.50,24.50
+15,2023-12-18,,Sofia Torres,Sur,2,Croissant,Panes  ,9,2.50,22.50
+16,2023-08-14,7,Sofia Torres,Sur,10,,Salados,7,3.00,21.00
+17,2023-10-27,9,Carmen Rivera,Este,4,Galletas Avena,Galletas,3,3.00,9.00
+18,,10,José Gómez,Oeste,10,Empanada,,10,3.00,30.00
+19,2023-01-12,6,Pedro Ramírez,Norte,8,Tarta Manzana,,,12.00,108.00
+20,2023-07-17,5,Laura Sánchez,Oeste,9,Baguette,Panes,3,2.50,7.50
+21,,10,José Gómez,Oeste,6,Pan Integral,Panes,6,2.00,12.00
+22,2023-10-16,5,Laura Sánchez,Oeste,6,Pan Integral,Panes,9,2.00,18.00
+23,2023-06-05,6,,Norte,6,Pan Integral,Panes,5,2.00,10.00
+24,2024-07-07,3,Ana Martínez  ,Centro,1,Pan Francés,Panes,9,1.50,13.50
+25,2023-03-15,9,Carmen Rivera  ,Este,10,Empanada,Salados,4,3.00,
+26,2023-03-27,4,Juan Rodríguez,Este,10,,Salados,4,3.00,
+27,2023-06-06,6,Pedro Ramírez,Norte,,Croissant,Panes,6,2.50,
+28,,3,Ana Martínez,,1,Pan Francés,Panes,1,1.50,1.50
+29,2023-04-24,7,Sofia Torres,Sur,1,Pan Francés,Panes,1,1.50,1.50
+30,2023-08-21,5,Laura Sánchez,Oeste,4,Galletas Avena,Galletas,4,3.00,12.00
+31,2024-03-09,8,Miguel Flores,Centro,2,Croissant,Panes  ,5,2.50,12.50
+32,2024-09-15,5,Laura Sánchez,,10,,Salados,2,3.00,
+33,,7,Sofia Torres,Sur,1,Pan Francés,Panes,7,1.50,10.50
+34,2023-11-25,10,José Gómez,Oeste,9,Baguette,Panes,4,2.50,10.00
+35,2024-04-19,4,Juan Rodríguez  ,Este,7,Muffin Arándanos,,9,3.50,31.50
+36,2023-08-11,2,,Sur,6,Pan Integral,Panes,,2.00,16.00
+37,2023-10-20,5,,Oeste,1,,Panes,1,1.50,1.50
+38,2024-02-29,4,Juan Rodríguez,Este,5,Donas,,3,2.00,6.00
+39,2023-12-30,9,Carmen Rivera,Este,10,Empanada,Salados,1,3.00,3.00
+40,2023-10-05,9,Carmen Rivera,Este,1,Pan Francés,Panes,8,1.50,
+41,2023-04-10,4,Juan Rodríguez,Este,3,Pastel Chocolate,Pasteles,9,15.00,135.00
+42,2023-06-10,1,María González,Norte,,Tarta Manzana,Pasteles,6,12.00,72.00
+43,2024-02-21,2,Carlos López,,6,Pan Integral,Panes,5,2.00,10.00
+44,2023-01-10,6,Pedro Ramírez,Norte,9,Baguette,,7,2.50,17.50
+45,2023-01-17,4,Juan Rodríguez,Este,9,Baguette,Panes,4,2.50,10.00
+46,2023-08-08,2,Carlos López,Sur,5,Donas,Panes,3,2.00,6.00
+47,2023-11-13,4,,Este,9,Baguette,Panes,10,2.50,25.00
+48,2024-09-29,2,Carlos López,Sur,9,Baguette,Panes,3,2.50,7.50
+49,2023-09-06,4,Juan Rodríguez,Este,4,Galletas Avena,Galletas,1,3.00,3.00
+50,2024-01-10,3,,Centro,9,,Panes,5,2.50,12.50
+51,2023-11-10,2,Carlos López,Sur,,,Panes,6,2.50,15.00
+52,2023-12-12,1,María González,Norte,1,Pan Francés  ,Panes  ,10,1.50,15.00
+53,2023-10-24,9,Carmen Rivera,Este,1,Pan Francés,Panes,4,1.50,6.00
+54,2023-03-12,9,,Este,5,Donas,Panes,3,,
+55,2024-03-11,9,Carmen Rivera,Este,7,Muffin Arándanos,Pasteles,10,,35.00
+56,2023-05-05,8,Miguel Flores,,8,Tarta Manzana,,1,12.00,12.00
+57,2024-08-02,8,Miguel Flores,Centro,6,,,3,2.00,6.00
+58,2023-07-09,1,María González,Norte,8,Tarta Manzana,Pasteles,5,,60.00
+59,2023-02-14,10,José Gómez,Oeste,3,Pastel Chocolate,Pasteles,5,15.00,75.00
+60,2024-09-26,9,Carmen Rivera,Este,4,Galletas Avena  ,Galletas,1,3.00,3.00
+61,2024-02-08,4,,Este,9,Baguette,Panes,4,2.50,10.00
+62,,5,Laura Sánchez,Oeste,6,Pan Integral,Panes,8,2.00,16.00
+63,2024-06-02,3,Ana Martínez,Centro,5,Donas  ,Panes,5,2.00,10.00
+64,,1,María González,Norte,4,Galletas Avena,Galletas,3,3.00,9.00
+65,2023-03-01,,Ana Martínez,Centro,6,Pan Integral,Panes,2,2.00,4.00
+66,,4,Juan Rodríguez,Este,10,Empanada,Salados,9,3.00,27.00
+67,2023-06-14,,Carmen Rivera,Este,8,Tarta Manzana,Pasteles,7,12.00,84.00
+68,2023-06-30,2,Carlos López,Sur,9,Baguette,,6,2.50,15.00
+69,2023-12-09,8,,Centro,4,Galletas Avena,Galletas,5,3.00,15.00
+70,2023-01-04,,,Norte,8,Tarta Manzana,Pasteles,,12.00,96.00
+71,2023-01-19,6,Pedro Ramírez,,5,Donas,Panes,4,2.00,8.00
+72,2024-04-10,4,Juan Rodríguez,Este,3,Pastel Chocolate,,5,15.00,75.00
+73,2024-05-30,5,Laura Sánchez,Oeste,5,Donas  ,Panes,6,2.00,12.00
+74,2023-03-28,3,Ana Martínez,Centro,4,Galletas Avena,Galletas,,3.00,24.00
+75,2023-03-20,10,José Gómez,,10,Empanada,Salados,9,3.00,27.00
+76,2024-02-07,6,Pedro Ramírez,Norte,2,Croissant,Panes,5,2.50,12.50
+77,2024-04-16,10,José Gómez,Oeste,1,Pan Francés,Panes,1,1.50,1.50
+78,2023-08-01,9,Carmen Rivera,Este,6,Pan Integral,Panes,10,2.00,20.00
+79,2024-06-18,10,José Gómez  ,Oeste,1,,Panes,7,1.50,10.50
+80,,8,Miguel Flores,Centro,1,Pan Francés,,2,1.50,3.00
+81,2023-02-05,6,Pedro Ramírez,Norte,7,Muffin Arándanos,Pasteles,4,3.50,14.00
+82,2023-09-28,8,Miguel Flores,Centro,,,Pasteles,,3.50,10.50
+83,2024-05-14,1,María González,Norte,6,Pan Integral,Panes,7,2.00,14.00
+84,2024-03-18,,Carlos López,Sur,,,Pasteles,3,3.50,
+85,2023-07-10,6,Pedro Ramírez,Norte,3,Pastel Chocolate,Pasteles,,15.00,60.00
+86,2023-12-17,1,María González,,2,Croissant,Panes,3,2.50,7.50
+87,2023-10-18,3,Ana Martínez,Centro,1,Pan Francés,Panes,8,1.50,12.00
+88,,1,María González,,,Muffin Arándanos,Pasteles,7,3.50,24.50
+89,,,Carmen Rivera,Este,9,Baguette,,6,2.50,15.00
+90,2024-08-15,9,Carmen Rivera,Este  ,,Pan Francés,Panes,,1.50,4.50
+91,2024-03-20,1,,Norte,3,Pastel Chocolate,Pasteles,9,15.00,135.00
+92,2023-11-07,,Carmen Rivera,Este  ,,Donas,Panes,4,2.00,8.00
+93,2023-04-01,1,María González,Norte,6,Pan Integral,Panes,7,2.00,14.00
+94,2023-04-16,7,Sofia Torres,Sur,3,Pastel Chocolate,Pasteles,7,15.00,105.00
+95,2024-04-21,5,Laura Sánchez,Oeste,5,Donas,Panes,2,2.00,4.00
+96,2023-12-25,2,Carlos López  ,Sur,3,Pastel Chocolate,Pasteles,6,15.00,90.00
+97,2024-05-18,9,Carmen Rivera,Este,2,Croissant  ,Panes,7,,17.50
+98,2023-04-06,3,Ana Martínez,,4,Galletas Avena,Galletas,2,3.00,6.00
+99,2023-06-27,7,Sofia Torres,Sur,6,Pan Integral,Panes,2,2.00,
+100,2024-04-24,5,Laura Sánchez,Oeste,7,Muffin Arándanos,Pasteles,1,3.50,3.50
+101,2023-09-23,9,Carmen Rivera,Este,4,,Galletas,10,3.00,
+102,2024-01-19,,Pedro Ramírez,Norte  ,10,Empanada  ,Salados,8,3.00,24.00
+103,2023-11-24,,María González,Norte,6,Pan Integral,Panes,5,2.00,10.00
+104,2024-05-05,4,Juan Rodríguez,,10,Empanada,Salados,8,3.00,24.00
+105,,5,Laura Sánchez,Oeste  ,3,Pastel Chocolate,Pasteles,6,15.00,90.00
+106,2023-10-29,5,Laura Sánchez,Oeste,9,Baguette,Panes,5,2.50,12.50
+107,2023-09-10,5,Laura Sánchez,Oeste,7,Muffin Arándanos,Pasteles,3,,10.50
+108,2023-07-06,,Ana Martínez,Centro,4,Galletas Avena  ,Galletas,5,3.00,15.00
+109,2024-04-09,3,Ana Martínez,Centro,7,Muffin Arándanos,,8,,28.00
+110,2024-06-29,8,Miguel Flores,Centro,1,Pan Francés,Panes  ,5,1.50,7.50
+111,2023-06-21,2,Carlos López,Sur,,Donas,Panes,7,2.00,14.00
+112,2024-01-13,2,Carlos López,Sur,10,Empanada,Salados,5,3.00,15.00
+113,2024-04-02,6,Pedro Ramírez,Norte,9,Baguette,Panes,10,2.50,25.00
+114,2024-02-11,3,Ana Martínez,,8,Tarta Manzana,Pasteles,4,12.00,48.00
+115,2024-06-19,,Juan Rodríguez,Este,9,Baguette,Panes,5,2.50,12.50
+116,2023-12-07,,Juan Rodríguez,Este,5,Donas,Panes  ,1,2.00,2.00
+117,2024-04-19,4,,Este,9,Baguette,Panes,,,7.50
+118,2023-03-10,8,Miguel Flores,Centro,1,Pan Francés,Panes,6,1.50,
+119,2023-08-09,5,Laura Sánchez,Oeste,6,Pan Integral,Panes,3,2.00,6.00
+120,2023-03-15,7,,Sur,,Muffin Arándanos,Pasteles,6,3.50,21.00
+121,2023-02-15,8,Miguel Flores,Centro,4,Galletas Avena,Galletas,4,3.00,12.00
+122,2024-08-19,7,,Sur,6,Pan Integral,Panes,10,,20.00
+123,2024-01-31,6,Pedro Ramírez,Norte,9,Baguette  ,Panes,5,2.50,12.50
+124,2023-05-07,6,Pedro Ramírez,Norte,3,,Pasteles,8,15.00,120.00
+125,2023-03-17,,Juan Rodríguez,Este,,Croissant,Panes,1,2.50,2.50
+126,2024-07-26,7,Sofia Torres,Sur,2,Croissant  ,Panes,,2.50,17.50
+127,,10,José Gómez,Oeste,1,Pan Francés,,5,1.50,7.50
+128,2023-10-19,,Ana Martínez,Centro  ,10,Empanada,Salados,10,,30.00
+129,2023-11-21,3,Ana Martínez,Centro,2,Croissant,Panes,7,2.50,17.50
+130,2023-12-10,8,Miguel Flores,Centro,3,Pastel Chocolate,Pasteles,6,15.00,90.00
+131,2023-05-04,8,Miguel Flores,Centro,6,Pan Integral  ,Panes,,2.00,2.00
+132,2023-04-15,6,Pedro Ramírez,Norte,6,Pan Integral,Panes,9,2.00,18.00
+133,2023-11-09,1,María González,Norte,3,Pastel Chocolate,Pasteles,1,15.00,15.00
+134,2023-06-23,8,Miguel Flores,Centro,7,Muffin Arándanos,Pasteles,7,3.50,24.50
+135,2024-05-21,3,Ana Martínez,Centro,8,Tarta Manzana,Pasteles,3,12.00,36.00
+136,2023-03-29,2,Carlos López,Sur,9,Baguette,Panes,8,2.50,
+137,2024-05-19,9,Carmen Rivera,Este,10,Empanada,Salados,5,3.00,15.00
+138,,1,María González,,5,Donas,Panes,4,2.00,8.00
+139,2023-07-08,9,Carmen Rivera,Este,10,Empanada,Salados,8,3.00,24.00
+140,2023-08-10,,Pedro Ramírez,Norte,3,Pastel Chocolate  ,Pasteles,7,15.00,
+141,2023-09-04,5,Laura Sánchez,Oeste,3,Pastel Chocolate,Pasteles,6,15.00,90.00
+142,2024-03-05,10,José Gómez,Oeste,3,Pastel Chocolate,Pasteles,7,15.00,105.00
+143,2024-06-11,2,Carlos López,Sur,8,Tarta Manzana,Pasteles,2,12.00,24.00
+144,2024-01-29,8,Miguel Flores,Centro,5,Donas,Panes,6,,12.00
+145,2024-05-09,3,Ana Martínez,Centro,8,Tarta Manzana,Pasteles,6,12.00,72.00
+146,2023-09-17,4,Juan Rodríguez,Este,7,Muffin Arándanos,Pasteles,6,3.50,21.00
+147,2024-08-07,8,,Centro,1,Pan Francés,Panes,1,,1.50
+148,2024-04-30,9,Carmen Rivera,,7,Muffin Arándanos,Pasteles,5,3.50,17.50
+149,2024-04-25,6,Pedro Ramírez,Norte,4,Galletas Avena,Galletas,,3.00,12.00
+150,2023-08-20,1,María González,,,Muffin Arándanos,Pasteles,7,3.50,24.50
+151,2024-01-21,9,Carmen Rivera,Este,10,Empanada  ,Salados,8,3.00,24.00
+152,2023-07-24,8,Miguel Flores,Centro,9,Baguette,Panes,9,,22.50
+153,2023-09-04,8,Miguel Flores,Centro,,Pan Francés,Panes,5,1.50,7.50
+154,2023-06-23,,Miguel Flores,Centro,,Pan Integral,Panes,8,2.00,
+155,2023-09-14,5,,Oeste,8,Tarta Manzana,Pasteles,,12.00,60.00
+156,,7,Sofia Torres,Sur,1,Pan Francés,Panes,8,1.50,
+157,2024-08-13,6,Pedro Ramírez,Norte,9,,Panes,8,2.50,20.00
+158,2023-04-15,5,Laura Sánchez,Oeste,2,Croissant,Panes,4,2.50,10.00
+159,2024-09-09,10,José Gómez,Oeste,3,Pastel Chocolate,,10,15.00,150.00
+160,2024-08-14,5,Laura Sánchez,Oeste,10,Empanada  ,Salados,2,3.00,6.00
+161,2023-07-02,2,,Sur,2,Croissant,Panes,6,2.50,15.00
+162,2023-03-23,6,Pedro Ramírez,Norte,7,Muffin Arándanos,Pasteles,8,3.50,28.00
+163,2023-08-17,9,Carmen Rivera,Este,1,Pan Francés,,10,,15.00
+164,2024-08-16,10,José Gómez,Oeste,9,Baguette,Panes,3,2.50,7.50
+165,2024-06-27,9,Carmen Rivera,Este,,Galletas Avena,Galletas,2,3.00,6.00
+166,2024-05-17,4,Juan Rodríguez,Este,7,,Pasteles,10,3.50,35.00
+167,2023-12-08,10,José Gómez,Oeste,6,Pan Integral,,,2.00,12.00
+168,2024-05-21,7,Sofia Torres,Sur,3,,Pasteles,4,15.00,60.00
+169,2024-07-01,6,Pedro Ramírez,Norte,2,Croissant,Panes,9,2.50,22.50
+170,2023-04-20,10,José Gómez,Oeste,5,Donas,Panes,3,2.00,6.00
+171,2024-07-26,2,Carlos López,,10,Empanada,Salados,2,3.00,
+172,2023-08-12,,Sofia Torres,Sur,1,Pan Francés,Panes,9,1.50,13.50
+173,2024-05-17,7,Sofia Torres,Sur,7,Muffin Arándanos,Pasteles,6,3.50,21.00
+174,2023-01-18,3,Ana Martínez,Centro,1,Pan Francés,,3,1.50,4.50
+175,2023-11-20,6,Pedro Ramírez,Norte,1,Pan Francés,Panes,10,1.50,15.00
+176,2023-05-16,7,Sofia Torres,Sur,1,Pan Francés,Panes,1,1.50,1.50
+177,2024-09-13,1,María González,Norte,10,Empanada,Salados,,3.00,12.00
+178,2024-04-06,7,Sofia Torres,Sur,,Pastel Chocolate,Pasteles,,15.00,150.00
+179,2023-08-26,,José Gómez,Oeste,5,Donas,Panes,,2.00,6.00
+180,2024-05-17,8,Miguel Flores,Centro,3,Pastel Chocolate  ,Pasteles,4,15.00,60.00
+181,2024-05-19,9,Carmen Rivera,Este  ,2,Croissant,Panes,10,2.50,
+182,2024-09-01,,Carmen Rivera,Este,1,Pan Francés,Panes,3,,4.50
+183,2024-01-30,4,Juan Rodríguez,Este,10,Empanada,Salados,5,3.00,
+184,2024-01-02,,Carmen Rivera,Este,3,Pastel Chocolate,Pasteles,4,15.00,60.00
+185,2023-09-21,6,Pedro Ramírez,,10,Empanada,Salados,,3.00,9.00
+186,2023-09-07,2,Carlos López,Sur,4,,Galletas,7,3.00,21.00
+187,2024-08-17,1,María González,Norte,10,Empanada,Salados,10,3.00,30.00
+188,2023-11-01,4,Juan Rodríguez,Este,3,Pastel Chocolate,,4,,60.00
+189,2023-01-31,2,Carlos López,Sur,8,Tarta Manzana,Pasteles,,,24.00
+190,2023-05-06,8,Miguel Flores,Centro,1,Pan Francés,Panes,1,1.50,1.50
+191,2024-07-30,6,Pedro Ramírez,Norte,10,,Salados,1,3.00,3.00
+192,2023-08-22,2,Carlos López,Sur,9,Baguette,Panes,,2.50,5.00
+193,2023-08-11,1,María González,Norte,9,,,1,2.50,2.50
+194,,5,Laura Sánchez,Oeste,3,Pastel Chocolate,Pasteles,4,15.00,60.00
+195,2024-01-16,10,José Gómez,Oeste,1,Pan Francés,Panes  ,1,1.50,1.50
+196,2023-05-03,10,José Gómez  ,Oeste,1,Pan Francés,,6,1.50,
+197,2024-01-18,9,Carmen Rivera,Este  ,2,Croissant,,5,2.50,12.50
+198,2023-02-09,,Carmen Rivera,Este,10,Empanada  ,Salados,1,3.00,
+199,2023-08-17,8,Miguel Flores,Centro,2,Croissant,Panes,10,2.50,25.00
+200,2023-02-23,7,Sofia Torres,Sur,9,Baguette,Panes  ,3,2.50,7.50
+201,2024-02-10,7,Sofia Torres,Sur,5,,Panes,10,2.00,
+202,2023-06-02,3,Ana Martínez,Centro,,Pastel Chocolate,Pasteles,9,15.00,135.00
+203,,10,José Gómez,Oeste,,Muffin Arándanos,Pasteles,1,3.50,3.50
+204,2023-05-17,7,Sofia Torres,Sur  ,9,Baguette,Panes,7,2.50,17.50
+205,2023-09-19,,María González,Norte,1,Pan Francés,,1,1.50,1.50
+206,2023-02-12,6,Pedro Ramírez,Norte,9,Baguette,Panes,1,2.50,2.50
+207,,7,Sofia Torres  ,Sur,9,Baguette,Panes,4,2.50,10.00
+208,2024-09-22,5,Laura Sánchez  ,Oeste  ,8,Tarta Manzana,Pasteles,5,12.00,60.00
+209,2023-10-17,2,Carlos López,Sur,6,Pan Integral,Panes,9,2.00,18.00
+210,2024-08-01,,Juan Rodríguez,Este,9,Baguette,Panes,10,2.50,
+211,2024-07-09,,,Oeste,6,Pan Integral,Panes,,2.00,10.00
+212,2023-07-23,7,Sofia Torres,Sur,4,Galletas Avena,Galletas,8,3.00,24.00
+213,2023-02-16,10,José Gómez,Oeste,,Empanada,Salados,10,,30.00
+214,2024-01-21,4,Juan Rodríguez,Este,9,Baguette,Panes,9,2.50,22.50
+215,2023-09-30,2,Carlos López,Sur,1,Pan Francés,Panes  ,4,,
+216,2024-08-03,,Carlos López,Sur,8,Tarta Manzana,Pasteles,2,12.00,24.00
+217,2023-09-04,9,Carmen Rivera,Este,9,Baguette,Panes,1,2.50,2.50
+218,2023-10-14,5,Laura Sánchez,Oeste,,Baguette,Panes,4,2.50,
+219,2023-09-28,10,José Gómez,Oeste,7,Muffin Arándanos,Pasteles,10,3.50,35.00
+220,,10,José Gómez,,3,,Pasteles,2,15.00,30.00
+221,,1,María González,,,Pan Francés,Panes,2,,3.00
+222,2024-04-10,8,Miguel Flores,,10,Empanada,Salados,7,3.00,21.00
+223,2024-01-01,1,María González,Norte,6,Pan Integral,Panes,9,2.00,18.00
+224,2023-05-20,,Sofia Torres,Sur,10,Empanada,Salados,7,3.00,
+225,2023-09-03,2,,Sur,,Donas  ,Panes,4,2.00,8.00
+226,2023-12-02,8,Miguel Flores,Centro,10,Empanada,Salados,9,3.00,27.00
+227,2024-08-31,1,María González,Norte,6,Pan Integral,Panes,5,2.00,10.00
+228,2024-02-09,2,Carlos López,Sur,4,Galletas Avena,Galletas,6,3.00,
+229,2024-01-26,7,Sofia Torres,Sur,3,Pastel Chocolate,Pasteles,9,15.00,135.00
+230,2023-10-06,1,María González,Norte  ,5,Donas,Panes,1,2.00,2.00
+231,2023-06-10,4,Juan Rodríguez,Este,1,Pan Francés,Panes,,1.50,7.50
+232,2023-02-19,6,Pedro Ramírez,Norte,9,Baguette,Panes,10,2.50,25.00
+233,2023-02-26,5,Laura Sánchez,Oeste,10,Empanada  ,Salados,1,3.00,
+234,2023-08-29,9,Carmen Rivera,Este,4,Galletas Avena,Galletas,10,3.00,30.00
+235,2024-08-22,4,Juan Rodríguez  ,Este  ,2,Croissant  ,Panes,10,2.50,25.00
+236,2023-07-24,2,Carlos López,Sur,6,Pan Integral,Panes,2,2.00,4.00
+237,2023-10-09,4,Juan Rodríguez,Este,8,Tarta Manzana,Pasteles,7,12.00,84.00
+238,2024-08-23,8,Miguel Flores,Centro,8,Tarta Manzana  ,Pasteles,1,12.00,12.00
+239,,5,Laura Sánchez,Oeste,7,Muffin Arándanos,Pasteles,3,3.50,10.50
+240,2024-05-21,4,,Este  ,1,Pan Francés,Panes,,1.50,13.50
+241,2023-12-19,2,Carlos López,Sur,2,Croissant,Panes,3,2.50,7.50
+242,2024-05-02,5,Laura Sánchez,Oeste,9,,Panes,9,2.50,22.50
+243,2024-08-08,4,Juan Rodríguez,Este,6,Pan Integral,Panes,10,2.00,20.00
+244,2024-04-07,1,María González,Norte,,Empanada,Salados,1,3.00,3.00
+245,2023-02-13,8,Miguel Flores,Centro,6,Pan Integral,Panes,3,,6.00
+246,2023-08-12,4,Juan Rodríguez,Este,9,Baguette,,2,2.50,5.00
+247,2024-06-28,3,Ana Martínez,Centro,1,Pan Francés,Panes,1,1.50,1.50
+248,2023-12-16,5,Laura Sánchez,Oeste,2,Croissant,,,2.50,7.50
+249,2023-03-19,6,Pedro Ramírez,Norte  ,8,Tarta Manzana,Pasteles,7,12.00,84.00
+250,2023-05-17,8,,Centro,2,Croissant  ,Panes,10,2.50,
+251,2024-06-02,,Juan Rodríguez,Este,10,Empanada,Salados,6,,18.00
+252,2024-02-26,4,Juan Rodríguez,Este,5,Donas,Panes,,2.00,10.00
+253,2024-06-13,,Juan Rodríguez,Este,2,Croissant,Panes,,,25.00
+254,2024-06-08,3,Ana Martínez,Centro,5,Donas,Panes,4,2.00,8.00
+255,2024-05-30,9,Carmen Rivera,Este  ,9,Baguette,Panes,10,2.50,25.00
+256,2024-08-10,6,Pedro Ramírez,Norte,7,Muffin Arándanos,Pasteles,2,3.50,7.00
+257,2023-04-18,4,Juan Rodríguez,Este,5,Donas,,3,2.00,6.00
+258,,9,Carmen Rivera,Este,5,Donas,Panes,9,2.00,18.00
+259,2023-10-23,7,Sofia Torres,Sur,10,Empanada,Salados,8,3.00,24.00
+260,,1,María González,,10,Empanada,Salados,2,3.00,6.00
+261,2023-10-20,4,Juan Rodríguez  ,,2,Croissant,Panes,8,2.50,20.00
+262,2024-08-02,2,Carlos López  ,Sur,1,Pan Francés,Panes,8,1.50,12.00
+263,2023-04-22,9,Carmen Rivera,Este,,Galletas Avena  ,Galletas,6,3.00,18.00
+264,2024-04-19,4,,Este,6,Pan Integral,Panes,4,2.00,8.00
+265,2023-10-30,9,Carmen Rivera,Este,8,,Pasteles,1,,12.00
+266,2023-08-20,2,Carlos López,Sur,2,,,,2.50,15.00
+267,2024-04-14,2,Carlos López,Sur,8,Tarta Manzana,,7,12.00,84.00
+268,2023-04-19,1,María González,Norte,4,,Galletas,1,3.00,3.00
+269,2024-03-15,,Juan Rodríguez,Este,9,Baguette,Panes,10,2.50,
+270,2023-02-14,7,Sofia Torres,Sur,4,,Galletas,9,3.00,27.00
+271,2023-04-14,6,Pedro Ramírez,Norte,7,Muffin Arándanos,,3,3.50,10.50
+272,2023-08-17,5,Laura Sánchez,Oeste,1,Pan Francés,Panes,5,1.50,7.50
+273,2024-04-21,8,Miguel Flores,Centro  ,1,,Panes,10,1.50,15.00
+274,2023-10-11,2,Carlos López,Sur,9,Baguette,Panes,6,2.50,15.00
+275,,9,Carmen Rivera,Este,10,Empanada,Salados,10,3.00,30.00
+276,2024-01-11,9,,Este  ,6,Pan Integral,Panes,,2.00,18.00
+277,2023-10-13,9,Carmen Rivera,Este,3,Pastel Chocolate,Pasteles,6,15.00,90.00
+278,2023-11-17,4,Juan Rodríguez,Este,7,Muffin Arándanos,Pasteles,1,3.50,3.50
+279,2023-08-24,4,Juan Rodríguez,Este,1,Pan Francés,,5,1.50,7.50
+280,2023-02-12,,Ana Martínez,Centro,6,Pan Integral,Panes,,2.00,4.00
+281,2023-08-20,3,Ana Martínez,Centro,,Pan Integral,Panes,10,2.00,20.00
+282,2023-06-22,10,,Oeste,6,Pan Integral,,6,2.00,12.00
+283,2023-01-04,1,María González,Norte,4,Galletas Avena,Galletas,5,,15.00
+284,,,Carmen Rivera,Este,7,,Pasteles,7,3.50,24.50
+285,2024-09-17,10,José Gómez,Oeste,7,Muffin Arándanos,Pasteles,7,3.50,24.50
+286,2023-03-31,4,Juan Rodríguez  ,Este,9,Baguette,Panes,1,2.50,2.50
+287,,6,Pedro Ramírez,Norte,2,Croissant,Panes,3,2.50,7.50
+288,2024-09-20,5,,Oeste,6,Pan Integral,Panes,7,2.00,14.00
+289,2024-03-23,6,Pedro Ramírez,Norte,6,Pan Integral,,4,2.00,8.00
+290,2023-11-20,3,,Centro,7,Muffin Arándanos  ,Pasteles,7,3.50,24.50
+291,,6,Pedro Ramírez,Norte,8,Tarta Manzana,Pasteles,3,12.00,36.00
+292,2023-06-05,1,María González  ,Norte,5,Donas,,4,2.00,8.00
+293,2023-02-07,6,Pedro Ramírez  ,Norte,3,,Pasteles,9,15.00,
+294,2023-04-23,1,María González,,5,Donas,Panes  ,1,2.00,2.00
+295,2023-06-27,1,María González,Norte,5,Donas,Panes,,2.00,20.00
+296,2023-05-11,6,Pedro Ramírez,Norte,2,Croissant,Panes,10,2.50,25.00
+297,2024-08-29,5,Laura Sánchez,Oeste,8,Tarta Manzana,Pasteles,2,12.00,24.00
+298,2023-04-25,2,Carlos López,Sur,10,,Salados,8,3.00,24.00
+299,2024-01-02,6,Pedro Ramírez,Norte,1,Pan Francés,,1,1.50,1.50
+300,2023-11-07,7,Sofia Torres,Sur,,Empanada,Salados,6,,18.00
+301,2024-06-05,6,,Norte,1,Pan Francés,Panes,5,1.50,7.50
+302,2024-04-16,5,Laura Sánchez,Oeste,3,Pastel Chocolate,Pasteles,1,15.00,15.00
+303,2023-09-04,,Juan Rodríguez,Este,2,Croissant,Panes,10,2.50,25.00
+304,2023-09-24,3,Ana Martínez,Centro  ,1,Pan Francés,Panes,1,1.50,1.50
+305,2024-05-31,6,Pedro Ramírez,Norte,8,Tarta Manzana,Pasteles,2,12.00,24.00
+306,2023-04-08,,María González,Norte,2,Croissant,Panes,7,2.50,17.50
+307,2023-06-09,,,Oeste,3,Pastel Chocolate,Pasteles,9,15.00,135.00
+308,2023-11-28,6,Pedro Ramírez,Norte,8,Tarta Manzana,Pasteles,5,12.00,60.00
+309,,4,Juan Rodríguez,Este,4,Galletas Avena,Galletas  ,10,,30.00
+310,,8,Miguel Flores,Centro,,Muffin Arándanos,Pasteles,8,3.50,
+311,2024-04-05,10,José Gómez  ,Oeste,7,Muffin Arándanos,Pasteles,,3.50,3.50
+312,2024-08-06,7,Sofia Torres,Sur,8,Tarta Manzana,Pasteles,10,12.00,120.00
+313,2023-04-23,4,Juan Rodríguez,Este,2,Croissant,Panes,7,2.50,17.50
+314,2023-03-18,10,José Gómez,Oeste,7,Muffin Arándanos,Pasteles,7,3.50,
+315,,5,Laura Sánchez,Oeste,6,Pan Integral,Panes,3,2.00,6.00
+316,2023-02-14,1,María González,Norte,4,Galletas Avena  ,Galletas,6,3.00,18.00
+317,,8,Miguel Flores,Centro,3,Pastel Chocolate,,6,15.00,90.00
+318,2023-12-15,7,Sofia Torres,,2,Croissant,,2,2.50,5.00
+319,2023-05-16,9,Carmen Rivera,Este,7,Muffin Arándanos,Pasteles,4,3.50,14.00
+320,2023-03-02,,Pedro Ramírez,Norte,8,Tarta Manzana,Pasteles,3,12.00,36.00
+321,2024-06-27,,,,5,Donas,Panes,8,2.00,16.00
+322,2024-05-07,,Ana Martínez,Centro,9,Baguette,Panes,5,2.50,12.50
+323,2024-06-29,8,Miguel Flores,Centro,8,Tarta Manzana,Pasteles,2,,24.00
+324,2024-07-24,,Sofia Torres,Sur,10,Empanada,,4,3.00,12.00
+325,,4,Juan Rodríguez,Este,3,Pastel Chocolate,Pasteles,7,15.00,105.00
+326,2023-12-08,7,Sofia Torres  ,Sur,6,Pan Integral,Panes,8,,16.00
+327,2024-05-09,5,Laura Sánchez,Oeste,2,Croissant,Panes,2,2.50,
+328,2023-09-10,1,María González,,8,Tarta Manzana,Pasteles,9,12.00,108.00
+329,2023-03-01,1,María González,Norte,4,Galletas Avena,Galletas,3,3.00,9.00
+330,2024-07-18,,Juan Rodríguez,Este,7,Muffin Arándanos,,4,3.50,14.00
+331,,5,Laura Sánchez,Oeste,9,Baguette,Panes,10,2.50,25.00
+332,2023-01-23,3,Ana Martínez,Centro,6,Pan Integral,Panes,4,2.00,8.00
+333,2024-02-01,4,Juan Rodríguez,Este,2,Croissant,Panes,5,2.50,12.50
+334,2023-09-14,2,,Sur,8,,,2,12.00,24.00
+335,2024-05-29,,Sofia Torres,Sur  ,10,Empanada,Salados,8,3.00,24.00
+336,2024-06-27,4,Juan Rodríguez,Este,5,Donas,Panes  ,8,2.00,16.00
+337,,8,,Centro,8,Tarta Manzana,Pasteles,8,12.00,
+338,2023-12-05,8,Miguel Flores  ,Centro,3,Pastel Chocolate,Pasteles,,15.00,60.00
+339,2023-03-20,9,Carmen Rivera,,,Muffin Arándanos,Pasteles,8,3.50,28.00
+340,2024-06-29,9,Carmen Rivera,Este,6,Pan Integral,,8,,16.00
+341,2023-08-21,6,Pedro Ramírez,Norte,6,Pan Integral  ,Panes,7,2.00,
+342,2023-02-12,7,Sofia Torres,,10,Empanada,Salados,9,,27.00
+343,2023-09-13,7,,Sur,2,Croissant,,10,2.50,25.00
+344,2023-02-28,6,Pedro Ramírez,Norte,6,Pan Integral,Panes,,2.00,6.00
+345,2024-03-24,1,María González,Norte,4,Galletas Avena,Galletas,8,3.00,24.00
+346,2023-10-20,5,Laura Sánchez,,6,Pan Integral,Panes,9,2.00,18.00
+347,2023-02-13,9,Carmen Rivera,,3,Pastel Chocolate,Pasteles,7,15.00,
+348,2024-08-15,8,Miguel Flores,Centro,,Donas,Panes,4,2.00,8.00
+349,,2,Carlos López  ,Sur,1,Pan Francés,Panes,3,1.50,4.50
+350,2023-05-25,,José Gómez,Oeste  ,3,Pastel Chocolate,Pasteles  ,4,15.00,60.00
+351,2023-03-17,7,Sofia Torres,Sur,8,Tarta Manzana,Pasteles,10,12.00,120.00
+352,2024-03-18,5,Laura Sánchez,Oeste,,Muffin Arándanos,Pasteles,9,3.50,31.50
+353,2023-03-12,2,Carlos López,Sur,8,Tarta Manzana,,6,,72.00
+354,,,María González,Norte,4,Galletas Avena,Galletas,9,3.00,27.00
+355,2023-08-29,10,José Gómez,Oeste,6,,Panes,7,2.00,14.00
+356,,4,Juan Rodríguez,Este,8,Tarta Manzana,Pasteles,2,12.00,24.00
+357,2024-08-10,3,Ana Martínez,,2,Croissant,Panes,6,2.50,15.00
+358,2024-03-08,8,Miguel Flores,Centro,4,Galletas Avena,Galletas,,3.00,
+359,2023-01-03,5,Laura Sánchez,Oeste,8,,,5,12.00,60.00
+360,2024-02-22,8,Miguel Flores,,6,Pan Integral,Panes,9,2.00,18.00
+361,,1,María González,Norte,6,Pan Integral,Panes,9,2.00,
+362,2023-02-16,5,Laura Sánchez,Oeste,,Empanada  ,Salados,8,3.00,24.00
+363,2023-02-10,3,Ana Martínez,,6,Pan Integral,Panes,5,2.00,10.00
+364,2023-04-02,6,Pedro Ramírez,Norte,1,Pan Francés,Panes,3,1.50,4.50
+365,2024-07-30,5,Laura Sánchez,Oeste,7,Muffin Arándanos,Pasteles,1,3.50,3.50
+366,2024-06-29,4,Juan Rodríguez,Este,9,Baguette,Panes,5,2.50,12.50
+367,2024-02-21,9,Carmen Rivera,,8,Tarta Manzana,Pasteles,2,12.00,24.00
+368,2023-08-08,9,Carmen Rivera,Este,10,Empanada,Salados,,,
+369,2024-05-14,7,Sofia Torres,Sur,3,Pastel Chocolate,Pasteles,5,,75.00
+370,,1,María González  ,,5,Donas,,10,2.00,20.00
+371,2023-09-04,8,Miguel Flores,Centro,9,Baguette,,7,2.50,17.50
+372,2024-03-18,5,Laura Sánchez,Oeste,5,Donas,Panes,,2.00,16.00
+373,2024-01-30,4,Juan Rodríguez,Este,,Baguette  ,Panes,3,,7.50
+374,2024-07-31,7,Sofia Torres,Sur,4,,,5,3.00,15.00
+375,2023-02-22,7,Sofia Torres,Sur,6,,Panes,4,2.00,
+376,2023-01-31,10,José Gómez,Oeste,7,Muffin Arándanos,Pasteles,3,,10.50
+377,2023-10-19,8,Miguel Flores,Centro  ,,Baguette,Panes,4,2.50,10.00
+378,2024-05-19,1,María González,Norte,3,Pastel Chocolate,Pasteles,2,15.00,30.00
+379,2023-01-31,7,Sofia Torres,Sur,3,Pastel Chocolate,Pasteles,2,15.00,30.00
+380,2023-04-14,4,Juan Rodríguez,Este,,Empanada,Salados,8,3.00,24.00
+381,2024-01-06,9,Carmen Rivera,Este  ,9,Baguette,Panes,3,2.50,7.50
+382,2023-08-05,6,Pedro Ramírez,Norte,4,Galletas Avena,Galletas,7,3.00,21.00
+383,2024-09-28,6,,,3,Pastel Chocolate,Pasteles,1,15.00,15.00
+384,2023-07-21,1,María González,Norte,9,Baguette,Panes,7,2.50,17.50
+385,2023-11-08,1,María González,Norte,2,Croissant,Panes,7,2.50,17.50
+386,2023-04-20,7,Sofia Torres,Sur,9,Baguette,Panes,1,2.50,2.50
+387,2023-03-02,4,Juan Rodríguez,,5,,Panes,1,,2.00
+388,2023-02-26,4,Juan Rodríguez,Este  ,7,Muffin Arándanos,Pasteles,7,3.50,24.50
+389,2023-05-17,1,María González,Norte,3,Pastel Chocolate,Pasteles,2,15.00,
+390,2024-06-01,4,Juan Rodríguez,Este,8,Tarta Manzana,,7,12.00,84.00
+391,2024-04-26,3,Ana Martínez,Centro,1,Pan Francés,,2,1.50,3.00
+392,2023-05-06,9,Carmen Rivera,Este,1,Pan Francés,Panes,5,1.50,7.50
+393,2023-04-25,7,Sofia Torres,Sur,9,Baguette,Panes,,2.50,
+394,2023-05-26,10,José Gómez,Oeste,3,Pastel Chocolate,Pasteles,1,15.00,15.00
+395,2024-02-11,2,Carlos López,Sur,1,Pan Francés,Panes,10,1.50,15.00
+396,2023-08-16,1,María González  ,Norte,3,Pastel Chocolate,Pasteles,2,,30.00
+397,2023-05-20,6,Pedro Ramírez,Norte,1,Pan Francés,Panes  ,4,1.50,6.00
+398,2023-08-21,6,,Norte,9,Baguette,Panes,2,2.50,5.00
+399,2023-01-04,1,María González,Norte,7,Muffin Arándanos,Pasteles,6,3.50,21.00
+400,2023-07-28,6,Pedro Ramírez,Norte,,Muffin Arándanos,Pasteles,4,3.50,14.00
+401,2024-09-03,8,,,8,Tarta Manzana,Pasteles,9,12.00,108.00
+402,2024-07-10,8,Miguel Flores,Centro,2,Croissant,Panes  ,1,,2.50
+403,2023-04-09,,José Gómez,Oeste,,,Panes,6,,15.00
+404,2024-09-27,7,Sofia Torres,Sur  ,1,Pan Francés,Panes,3,1.50,4.50
+405,2023-10-18,5,Laura Sánchez,Oeste,9,Baguette,Panes,9,2.50,22.50
+406,2024-05-03,5,Laura Sánchez,Oeste,7,Muffin Arándanos,,4,3.50,14.00
+407,2023-01-21,1,María González,Norte,10,Empanada  ,Salados,4,3.00,12.00
+408,,,Carmen Rivera,Este,9,Baguette,Panes,2,2.50,5.00
+409,2024-01-22,5,Laura Sánchez,Oeste,2,,Panes,,2.50,15.00
+410,2024-05-02,9,Carmen Rivera,Este,8,,Pasteles,6,12.00,72.00
+411,2023-03-01,5,,,6,Pan Integral,Panes,2,,4.00
+412,2023-06-15,5,Laura Sánchez,Oeste,6,Pan Integral,Panes,,2.00,
+413,2023-09-23,5,Laura Sánchez,Oeste,3,Pastel Chocolate,Pasteles,1,15.00,15.00
+414,2024-02-18,1,María González,Norte,3,,Pasteles,6,15.00,90.00
+415,2023-06-23,8,Miguel Flores,Centro,9,Baguette,Panes,3,2.50,7.50
+416,2023-02-27,,Miguel Flores,Centro,5,Donas,Panes,2,,4.00
+417,2024-07-24,9,Carmen Rivera,Este,5,Donas,Panes,,2.00,4.00
+418,2024-05-03,,Juan Rodríguez,Este,4,Galletas Avena,Galletas,2,3.00,6.00
+419,2024-04-06,,Juan Rodríguez,,4,Galletas Avena,Galletas,9,3.00,27.00
+420,2023-04-27,5,,Oeste,2,Croissant,Panes,10,2.50,25.00
+421,2024-03-14,,,Este,4,Galletas Avena,Galletas,5,3.00,15.00
+422,2023-07-01,6,Pedro Ramírez,Norte,1,Pan Francés,Panes,7,1.50,10.50
+423,,2,Carlos López,Sur,8,Tarta Manzana,Pasteles,2,12.00,24.00
+424,2024-07-08,1,María González,Norte,9,Baguette,Panes,7,2.50,17.50
+425,2023-06-25,3,Ana Martínez,Centro,3,Pastel Chocolate,Pasteles,8,15.00,120.00
+426,2023-05-31,,Laura Sánchez,Oeste  ,1,Pan Francés,Panes,5,1.50,7.50
+427,,6,Pedro Ramírez,Norte,7,Muffin Arándanos,Pasteles,2,3.50,7.00
+428,2023-10-28,6,Pedro Ramírez,,6,Pan Integral,Panes,7,2.00,14.00
+429,2023-09-25,1,María González,Norte,,Pan Integral,Panes,6,2.00,12.00
+430,2023-04-02,5,Laura Sánchez,,5,Donas,Panes,8,2.00,16.00
+431,2023-03-08,3,Ana Martínez  ,Centro,8,Tarta Manzana,Pasteles,5,12.00,60.00
+432,2023-03-19,5,Laura Sánchez,Oeste  ,6,,Panes,3,2.00,
+433,2023-05-07,,Carlos López,Sur,10,Empanada,Salados,2,,6.00
+434,2023-05-23,1,María González,Norte,7,Muffin Arándanos,Pasteles,4,3.50,14.00
+435,2024-04-27,1,María González,Norte,,Empanada,Salados,5,,15.00
+436,2024-06-22,7,Sofia Torres  ,Sur,2,Croissant,Panes,5,2.50,12.50
+437,2024-01-08,3,Ana Martínez  ,Centro,8,Tarta Manzana,Pasteles,2,,24.00
+438,2023-04-14,10,José Gómez,Oeste,1,Pan Francés,Panes,,1.50,15.00
+439,2024-08-04,6,Pedro Ramírez,Norte,2,Croissant,Panes,5,2.50,12.50
+440,2023-11-15,3,Ana Martínez,Centro,9,Baguette,,5,2.50,12.50
+441,,5,Laura Sánchez,Oeste,5,Donas,,4,2.00,8.00
+442,2024-02-20,4,Juan Rodríguez,,,Empanada,Salados,1,3.00,3.00
+443,2023-03-30,8,Miguel Flores,Centro,,Tarta Manzana  ,Pasteles,3,,36.00
+444,,9,Carmen Rivera,,1,Pan Francés,Panes,4,1.50,6.00
+445,2023-01-21,3,Ana Martínez,Centro,9,Baguette,Panes,,2.50,7.50
+446,2024-02-16,5,Laura Sánchez,Oeste,9,Baguette,Panes,2,2.50,5.00
+447,2024-02-15,6,Pedro Ramírez,Norte,7,,Pasteles,5,3.50,17.50
+448,2023-09-18,5,Laura Sánchez,Oeste,8,Tarta Manzana,Pasteles,3,12.00,
+449,2023-08-04,4,Juan Rodríguez,Este,3,Pastel Chocolate,,2,15.00,30.00
+450,2023-11-09,,María González,Norte  ,,Pan Francés,Panes,5,1.50,7.50
+451,2024-06-03,9,,Este,1,Pan Francés,Panes,,1.50,12.00
+452,2023-04-13,8,Miguel Flores,Centro,4,Galletas Avena,Galletas,5,3.00,15.00
+453,2023-05-16,8,Miguel Flores,Centro,8,,Pasteles,3,12.00,36.00
+454,2023-02-19,2,Carlos López,Sur,6,Pan Integral  ,Panes,9,2.00,18.00
+455,2024-02-04,9,Carmen Rivera,Este,5,Donas,Panes,9,2.00,18.00
+456,2024-03-22,1,María González,Norte,1,Pan Francés  ,Panes,2,1.50,3.00
+457,2023-09-12,2,,Sur  ,2,Croissant,Panes,10,2.50,25.00
+458,2023-09-04,5,Laura Sánchez,Oeste,10,Empanada,Salados,6,3.00,18.00
+459,2024-03-13,3,Ana Martínez,Centro,,Muffin Arándanos,Pasteles,6,,
+460,2023-02-11,1,María González,Norte,7,Muffin Arándanos,Pasteles,10,3.50,35.00
+461,2023-02-05,10,José Gómez,Oeste,8,Tarta Manzana,Pasteles,9,12.00,
+462,2024-09-02,5,Laura Sánchez,Oeste,10,Empanada,Salados  ,8,3.00,24.00
+463,,4,Juan Rodríguez,,6,Pan Integral,Panes,2,2.00,4.00
+464,2023-11-04,5,Laura Sánchez,Oeste,2,Croissant,Panes,9,2.50,22.50
+465,2023-05-07,2,Carlos López,Sur,1,Pan Francés,Panes,1,1.50,1.50
+466,2024-06-14,3,Ana Martínez,Centro,3,Pastel Chocolate,Pasteles,5,15.00,75.00
+467,2024-09-18,10,José Gómez,Oeste,,Baguette,Panes,,2.50,2.50
+468,2024-05-04,5,Laura Sánchez,Oeste,9,Baguette,Panes,2,2.50,5.00
+469,2024-04-21,8,Miguel Flores,Centro,3,,Pasteles,9,15.00,135.00
+470,2024-01-15,6,Pedro Ramírez,Norte,4,Galletas Avena,Galletas,8,3.00,
+471,2024-01-05,6,Pedro Ramírez  ,Norte,1,Pan Francés,Panes,7,,10.50
+472,2023-05-25,3,Ana Martínez,Centro,3,Pastel Chocolate,Pasteles,8,15.00,120.00
+473,2024-07-18,5,Laura Sánchez,Oeste,9,Baguette,Panes,1,2.50,2.50
+474,2024-05-20,3,Ana Martínez,Centro,8,Tarta Manzana,Pasteles,3,12.00,36.00
+475,2024-01-03,1,María González,Norte,6,Pan Integral,Panes,6,2.00,12.00
+476,2023-06-13,4,Juan Rodríguez,Este,2,,Panes,5,2.50,12.50
+477,,2,Carlos López,Sur,,Galletas Avena,Galletas,7,3.00,21.00
+478,,,Carmen Rivera,Este,6,Pan Integral,Panes,1,2.00,2.00
+479,2023-02-26,9,Carmen Rivera,Este,3,Pastel Chocolate,Pasteles,6,,90.00
+480,2023-11-24,7,Sofia Torres,Sur,7,Muffin Arándanos,Pasteles,5,3.50,17.50
+481,2023-09-18,2,,Sur  ,4,,Galletas,2,3.00,6.00
+482,2023-07-07,9,Carmen Rivera,Este,9,Baguette,Panes,9,2.50,22.50
+483,2024-01-15,6,Pedro Ramírez,,3,Pastel Chocolate,,9,15.00,135.00
+484,2023-09-01,7,,Sur,3,Pastel Chocolate,,8,15.00,120.00
+485,2023-03-06,2,Carlos López,Sur,8,Tarta Manzana,Pasteles,1,12.00,12.00
+486,2023-07-19,6,Pedro Ramírez,Norte,4,Galletas Avena,Galletas,1,3.00,3.00
+487,2024-02-01,8,Miguel Flores,Centro,1,,Panes,1,1.50,1.50
+488,2023-06-11,7,Sofia Torres,Sur,6,Pan Integral,Panes,2,2.00,4.00
+489,2024-01-01,6,Pedro Ramírez,,3,Pastel Chocolate,Pasteles,1,15.00,15.00
+490,2023-09-14,4,,Este,9,Baguette,Panes,7,2.50,17.50
+491,2023-07-07,7,Sofia Torres,Sur,2,Croissant,Panes,5,2.50,12.50
+492,2024-05-07,8,Miguel Flores  ,Centro,9,Baguette,Panes,9,2.50,22.50
+493,2024-04-30,10,José Gómez,Oeste,10,,,3,3.00,9.00
+494,,,Miguel Flores,Centro,2,Croissant,Panes,1,2.50,2.50
+495,2023-10-24,2,Carlos López,Sur  ,1,Pan Francés,Panes,7,1.50,10.50
+496,2023-10-28,1,María González,Norte,3,Pastel Chocolate,Pasteles,7,15.00,105.00
+497,2024-04-29,7,Sofia Torres,Sur,8,Tarta Manzana,Pasteles,6,12.00,72.00
+498,2024-05-18,6,Pedro Ramírez,Norte,10,,Salados,7,,21.00
+499,2024-09-14,10,José Gómez,Oeste,7,,Pasteles,,3.50,10.50
+500,2024-09-22,1,María González,Norte,3,Pastel Chocolate,Pasteles,10,15.00,150.00
