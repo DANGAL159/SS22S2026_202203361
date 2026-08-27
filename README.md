@@ -1,16 +1,10 @@
 # Tarea 2: Dashboard Analítico - Panadería
 
-**Curso:** Seminario de Sistemas 2  
-**Carnet:** 202203361
-**Semestre:** 2026-2
-
----
-
-# Tarea 2: Dashboard Analítico - Panadería
-
-**Curso:** Seminario de Sistemas 2  
-**Grupo:** G14  
-**Semestre:** 2026-1
+| -- | -- | -- |
+| **Curso:** |Seminario de Sistemas 2|  
+| **Carnet:** |202203361|
+| **Nombre:** |Daniel Abraham Gálvez Solorzano|
+| **Semestre:** |2026-2|
 
 ---
 
@@ -70,8 +64,8 @@ erDiagram
 ```
 
 ### Relaciones:
-DimProductos → ventas_panaderia: Relación 1:N por ProductoID
-DimClientes → ventas_panaderia: Relación 1:N por ClienteID
+**DimProductos** → ventas_panaderia: Relación 1:N por ProductoID
+**DimClientes** → ventas_panaderia: Relación 1:N por ClienteID
 
 ---
 
@@ -207,4 +201,3 @@ SS22S2026_G14/
 ---
 
 **Autor:** Daniel Abraham Gálvez Solorzano - 202203361  
-**Fecha de entrega:** 26/08/2026
