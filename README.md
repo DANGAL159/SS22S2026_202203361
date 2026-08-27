@@ -1,10 +1,13 @@
 # Tarea 2: Dashboard Analítico - Panadería
 
-| -- | -- | -- |
-| **Curso:** |Seminario de Sistemas 2|  
-| **Carnet:** |202203361|
-| **Nombre:** |Daniel Abraham Gálvez Solorzano|
-| **Semestre:** |2026-2|
+
+| **Campo** | **Información** |
+| :--- | :--- |
+| **Curso:** | Seminario de Sistemas 2 |  
+| **Carnet:** | 202203361 |
+| **Nombre:** | Daniel Abraham Gálvez Solorzano |
+| **Semestre:** | 2026-2 |
+
 
 ---
 
